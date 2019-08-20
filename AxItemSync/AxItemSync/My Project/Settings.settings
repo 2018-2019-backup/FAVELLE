@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="dbBomColumns" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ItemNo,Length,BOM PCS,RevNo,Width,BOMName,ApprovedBy,CheckedBy,SN,RevDescChanges,Weight,BOMDate,BOMRemark,CAT,PCsControlled,UOM,BOM Length,BOM Width,BOM Weight</Value>
+    </Setting>
+    <Setting Name="vaultBomProps" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Item Code,Length,Pcs Controlled,Rev Number,Width,Title,Approved By,Engg Checked By,First Use SN,Rev Description,Weight,Date Modified,BOMRemark,CAT,Pcs Controlled,Inventory UOM,BOM Length,BOM Width,BOM Weight</Value>
+    </Setting>
+    <Setting Name="dbColumns" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ChargesCode, Company, Description, ItemGroup, ProductNo, PcsControlled, ProductName, Remarks, SearchName, Specification,BOMUnit,CAT,ProjCategory</Value>
+    </Setting>
+    <Setting Name="vaultProps" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Charge Code, AX Company, Item Code Description, Item Group, Item Code, Pcs Controlled, Item Code Description, Remark, Search Name, Specification, Inventory UOM, CAT,ProjectCategory</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
