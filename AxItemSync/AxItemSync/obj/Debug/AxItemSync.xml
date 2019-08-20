@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AxItemSync
+</name>
+</assembly>
+<members>
+<member name="P:AxItemSync.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AxItemSync.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AxItemSync.My.Resources.Resources.vault">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="T:AxItemSync.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AxItemSync.LfCycDefListItem">
+	<summary>
+ A container for an LfCycDef object which can be displayed in a list box
+ </summary>
+</member><member name="T:AxItemSync.LfCycStateListItem">
+	<summary>
+ A container for an LfCycState object which can be displayed in a list box
+ </summary>
+</member><member name="T:AxItemSync.LfCycTransListItem">
+	<summary>
+ A container for an LfCycTrans object which can be displayed in a list box
+ </summary>
+</member><member name="T:AxItemSync.WorkflowListItem">
+	<summary>
+ A container for an Workflow object which can be displayed in a list box
+ </summary>
+</member><member name="T:AxItemSync.WorkflowStateListItem">
+	<summary>
+ A container for an WorkflowState object which can be displayed in a list box
+ </summary>
+</member><member name="T:AxItemSync.WorkflowActivityListItem">
+	<summary>
+ A container for an Activity object which can be displayed in a list box
+ </summary>
+</member>
+</members>
+</doc>

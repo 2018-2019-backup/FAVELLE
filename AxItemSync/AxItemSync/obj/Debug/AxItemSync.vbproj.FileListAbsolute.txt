@@ -1,0 +1,46 @@
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\AxItemSync.exe.config
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\obj\Debug\AxItemSync.Resources.resources
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\obj\Debug\AxItemSync.vbproj.GenerateResource.Cache
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\AxItemSync.exe
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\AxItemSync.pdb
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\AxItemSync.xml
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Explorer.Extensibility.dll
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Extensibility.Framework.dll
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.WebServices.dll
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.dll
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.Vault.dll
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Explorer.Extensibility.xml
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Extensibility.Framework.xml
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.WebServices.xml
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.xml
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.Vault.xml
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\obj\Debug\AxItemSync.vbprojResolveAssemblyReference.cache
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\obj\Debug\AxItemSync.exe
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\obj\Debug\AxItemSync.xml
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\obj\Debug\AxItemSync.pdb
+D:\Projects\UpdateItemsFromCSV\SourceCode\AxItemSync\AxItemSync\obj\Debug\AxItemSync.Settings.resources
+F:\Projects\KKM\AxItemSync\AxItemSync\bin\Debug\AxItemSync.exe.config
+F:\Projects\KKM\AxItemSync\AxItemSync\obj\Debug\AxItemSync.exe
+F:\Projects\KKM\AxItemSync\AxItemSync\obj\Debug\AxItemSync.xml
+F:\Projects\KKM\AxItemSync\AxItemSync\obj\Debug\AxItemSync.pdb
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\AxItemSync.exe.config
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\obj\Debug\AxItemSync.exe
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\obj\Debug\AxItemSync.xml
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\obj\Debug\AxItemSync.pdb
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\obj\Debug\AxItemSync.Resources.resources
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\obj\Debug\AxItemSync.vbproj.GenerateResource.Cache
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\AxItemSync.exe
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\AxItemSync.pdb
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\AxItemSync.xml
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Explorer.Extensibility.dll
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Extensibility.Framework.dll
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.WebServices.dll
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.dll
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.Vault.dll
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Explorer.Extensibility.xml
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.Extensibility.Framework.xml
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.Connectivity.WebServices.xml
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.xml
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\bin\Debug\Autodesk.DataManagement.Client.Framework.Vault.xml
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\obj\Debug\AxItemSync.Settings.resources
+D:\Projects\Favelle Vault-AX\Souce code\AxItemSync\AxItemSync\obj\Debug\AxItemSync.vbprojResolveAssemblyReference.cache
