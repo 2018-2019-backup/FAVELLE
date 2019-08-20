@@ -1,0 +1,8 @@
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\bin\VaultAXWebService.dll
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\bin\VaultAXWebService.pdb
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\bin\VaultAXWebService.xml
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\obj\Debug\VaultAXWebService.Resources.resources
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\obj\Debug\VaultAXWebService.vbproj.GenerateResource.Cache
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\obj\Debug\VaultAXWebService.dll
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\obj\Debug\VaultAXWebService.xml
+D:\Projects\Favelle Vault-AX\Souce code\VaultAXWebService\obj\Debug\VaultAXWebService.pdb

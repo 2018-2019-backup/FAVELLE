@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="wsMethods.asmx.vb" Class="VaultAXWebService.wsMethods" %>
