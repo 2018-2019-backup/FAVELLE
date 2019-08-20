@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="VaultAXws.asmx.vb" Class="FavelleVaultAXws.Service1" %>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="dc72de31-b1d4-448d-8428-485c479957a2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://FFCMOBJ01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="V2AX_ItemListServiceGroup.xsd" MetadataType="Schema" ID="940a2b10-7ceb-4421-9302-3068623ba55a" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd5" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup1.xsd" MetadataType="Schema" ID="f327b3c4-d24d-4e08-a406-2067594fe4c2" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd0" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup2.xsd" MetadataType="Schema" ID="e46d2f37-8914-498d-a3a9-a6038055faf1" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd6" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup.wsdl" MetadataType="Wsdl" ID="2e67685a-2b6f-4145-96ae-b6a2fb6ac9b4" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup3.xsd" MetadataType="Schema" ID="6fc4977b-eae7-4063-8ce9-ea2eb5ece2ad" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd4" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup4.xsd" MetadataType="Schema" ID="fdf71c64-b3c5-4560-acd7-e34a05a3a191" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd3" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup5.xsd" MetadataType="Schema" ID="0fbc9940-147a-49cc-8467-255a57576d1b" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd1" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup1.wsdl" MetadataType="Wsdl" ID="0d899a85-89c0-424b-9841-bf1c21289fa1" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?wsdl=wsdl0" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup6.xsd" MetadataType="Schema" ID="a50a01b7-ac21-4270-9b84-77f1b992f10c" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd7" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup7.xsd" MetadataType="Schema" ID="9c39eadb-d8e9-4b6c-a506-619895617d3c" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

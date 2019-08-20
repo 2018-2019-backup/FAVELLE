@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3a86393a-b25a-480a-bb7d-2f1f330a2ac1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="V2AX_BOMListServiceGroup.wsdl" MetadataType="Wsdl" ID="11e36285-e856-483c-bddb-e616f81ea004" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup.xsd" MetadataType="Schema" ID="7ac77fcf-9166-46e3-9631-1827289cb628" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd3" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup1.xsd" MetadataType="Schema" ID="f48e9fa5-6f3c-47f4-bf8a-8af8a2ac8b5e" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd6" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup2.xsd" MetadataType="Schema" ID="ab81f25b-71fb-49de-942b-16f7af37be19" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd1" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup3.xsd" MetadataType="Schema" ID="84915652-cd49-4bb7-9cc6-ed1c5e7bbeac" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd7" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup4.xsd" MetadataType="Schema" ID="50ccc960-91ba-409b-ac6f-680806716bd3" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd4" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup5.xsd" MetadataType="Schema" ID="cebb8901-cfe1-46d8-a878-718a3711f40a" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd2" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup1.wsdl" MetadataType="Wsdl" ID="8051d8c7-cc04-4502-ae73-9738c7d40f33" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?wsdl=wsdl0" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup6.xsd" MetadataType="Schema" ID="38f7edae-23d8-47a5-ae3f-a7562d9d9890" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd0" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup7.xsd" MetadataType="Schema" ID="5ca509ea-92a3-407c-b887-9cb305cab8f2" SourceId="1" SourceUrl="http://ffcmobj01:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd5" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
