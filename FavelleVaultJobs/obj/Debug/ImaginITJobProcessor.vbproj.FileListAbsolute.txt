@@ -1,0 +1,15 @@
+D:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.vcet.config
+D:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.dll
+D:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.pdb
+D:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.xml
+C:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.vcet.config
+C:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.dll.config
+C:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.dll
+C:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.pdb
+C:\ProgramData\Autodesk\Vault 2014\Extensions\ImaginITJobProcessor\ImaginITJobProcessor.xml
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\ImaginITJobProcessor.vbprojResolveAssemblyReference.cache
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\Resources.resources
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\ImaginITJobProcessor.vbproj.GenerateResource.Cache
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\ImaginITJobProcessor.dll
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\ImaginITJobProcessor.xml
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\ImaginITJobProcessor.pdb

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e1987673-0378-4814-9e74-e0f99d9682ed" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="V2AX_BOMListServiceGroup2.wsdl" MetadataType="Wsdl" ID="68a2bb7a-040b-4a27-904d-6afa14d059d5" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup8.xsd" MetadataType="Schema" ID="7db0717b-5330-435a-a28b-02c0a19aa6bb" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd5" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup81.xsd" MetadataType="Schema" ID="c78030ca-d0b2-46b4-abb9-2ff75eff4ee4" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd7" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup82.xsd" MetadataType="Schema" ID="27ee5767-3b00-469d-b345-567a39217589" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd6" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup83.xsd" MetadataType="Schema" ID="8959d3bc-84af-4efd-9389-111a61e1d265" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd2" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup84.xsd" MetadataType="Schema" ID="d1465bee-3765-4a17-b765-fac910276844" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd0" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup85.xsd" MetadataType="Schema" ID="2cc4a593-6b40-47a6-a76c-cb73025030e8" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd1" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup86.xsd" MetadataType="Schema" ID="54e25cbe-8b5e-4f6d-b163-fac58f0ebd1d" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd3" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup21.wsdl" MetadataType="Wsdl" ID="ce2ad87b-d997-4297-b428-3bbd4f98c04a" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?wsdl=wsdl0" />
+    <MetadataFile FileName="V2AX_BOMListServiceGroup87.xsd" MetadataType="Schema" ID="3f8e0283-4660-413d-9c6e-2e226d2cc7cd" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

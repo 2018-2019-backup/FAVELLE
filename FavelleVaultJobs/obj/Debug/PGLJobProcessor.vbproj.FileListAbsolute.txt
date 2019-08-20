@@ -1,0 +1,16 @@
+C:\ProgramData\Autodesk\Vault 2015 R2\Extensions\TickJobProcessor\PGLJobProcessor.vcet.config
+C:\ProgramData\Autodesk\Vault 2015 R2\Extensions\TickJobProcessor\PGLJobProcessor.dll.config
+C:\ProgramData\Autodesk\Vault 2015 R2\Extensions\TickJobProcessor\PGLJobProcessor.dll
+C:\ProgramData\Autodesk\Vault 2015 R2\Extensions\TickJobProcessor\PGLJobProcessor.pdb
+C:\ProgramData\Autodesk\Vault 2015 R2\Extensions\TickJobProcessor\PGLJobProcessor.xml
+C:\ProgramData\Autodesk\Vault 2017\Extensions\PGLJobProcessor\PGLJobProcessor.vcet.config
+C:\ProgramData\Autodesk\Vault 2017\Extensions\PGLJobProcessor\PGLJobProcessor.dll.config
+C:\ProgramData\Autodesk\Vault 2017\Extensions\PGLJobProcessor\PGLJobProcessor.dll
+C:\ProgramData\Autodesk\Vault 2017\Extensions\PGLJobProcessor\PGLJobProcessor.pdb
+C:\ProgramData\Autodesk\Vault 2017\Extensions\PGLJobProcessor\PGLJobProcessor.xml
+D:\Projects\PGL Vault Customization\Source Code\PGL\ImaginITJobProcessor\obj\Debug\PGLJobProcessor.vbprojResolveAssemblyReference.cache
+D:\Projects\PGL Vault Customization\Source Code\PGL\ImaginITJobProcessor\obj\Debug\Resources.resources
+D:\Projects\PGL Vault Customization\Source Code\PGL\ImaginITJobProcessor\obj\Debug\PGLJobProcessor.vbproj.GenerateResource.Cache
+D:\Projects\PGL Vault Customization\Source Code\PGL\ImaginITJobProcessor\obj\Debug\PGLJobProcessor.dll
+D:\Projects\PGL Vault Customization\Source Code\PGL\ImaginITJobProcessor\obj\Debug\PGLJobProcessor.xml
+D:\Projects\PGL Vault Customization\Source Code\PGL\ImaginITJobProcessor\obj\Debug\PGLJobProcessor.pdb

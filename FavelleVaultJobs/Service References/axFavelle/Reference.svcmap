@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="eeb6dec9-99ac-40d5-8edb-ea0a28eb8d42" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="V2AX_ItemListServiceGroup8.xsd" MetadataType="Schema" ID="5398a00d-506d-4cd2-982a-b45b45a9be3d" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd1" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup81.xsd" MetadataType="Schema" ID="bde10a90-886c-4e9a-a86f-162abd12634f" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd6" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup82.xsd" MetadataType="Schema" ID="431756be-b987-465a-b8f6-e82a14ce8331" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd4" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup83.xsd" MetadataType="Schema" ID="85215751-d981-4c01-adee-425870592760" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd7" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup84.xsd" MetadataType="Schema" ID="93ff12cb-f042-4628-961d-e75b6a23c2e4" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd2" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup85.xsd" MetadataType="Schema" ID="48ba6dbb-c41f-4a1c-b6a2-6feca82d72c6" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd5" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup2.wsdl" MetadataType="Wsdl" ID="b5d6d4be-a3ec-46d5-933c-15dea9a8f94a" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?wsdl=wsdl0" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup86.xsd" MetadataType="Schema" ID="c8888407-9692-4a0f-aba2-805e3d3bd8f6" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd3" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup87.xsd" MetadataType="Schema" ID="b227639f-7b35-48b1-aa4d-c1804cd8be60" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup?xsd=xsd0" />
+    <MetadataFile FileName="V2AX_ItemListServiceGroup21.wsdl" MetadataType="Wsdl" ID="6525f1bd-dba3-4157-9ecf-8dd376c6c605" SourceId="1" SourceUrl="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_ItemListServiceGroup" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PGLJobProcessor
+</name>
+</assembly>
+<members>
+<member name="M:PGLJobProcessor.VaultPath.GetParentPath(System.String)">
+	<summary>
+ Gets the path of the parent folder for the inputed path.
+ </summary>
+	<param name="path">A full vault path.</param>
+	<returns>The parent folder path.</returns>
+</member><member name="M:PGLJobProcessor.VaultPath.Combine(System.String,System.String)">
+	<summary>
+ Combine 2 Vault path elements into a single path.
+ </summary>
+	<param name="path1">First part of the path.</param>
+	<param name="path2">Second part of the path.</param>
+	<returns>The combined path.</returns>
+</member><member name="M:PGLJobProcessor.VaultPath.Depth(System.String)">
+	<summary>
+ Determines the depth of the path.
+ </summary>
+	<param name="path">A full Vault path.</param>
+	<returns>The number of levels deep that the folder is.  
+ "$" will have a depth of 0.</returns>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

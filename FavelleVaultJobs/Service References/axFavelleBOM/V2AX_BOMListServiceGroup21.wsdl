@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://tempuri.org" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd3" namespace="http://tempuri.org" />
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd4" namespace="http://schemas.microsoft.com/dynamics/2010/01/datacontracts" />
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd6" namespace="http://schemas.microsoft.com/dynamics/2008/01/documents/Fault" />
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd0" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd1" namespace="http://schemas.datacontract.org/2004/07/Dynamics.Ax.Application" />
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.Ax.Xpp" />
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd5" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import schemaLocation="http://58.26.118.134:8102/DynamicsAx/Services/V2AX_BOMListServiceGroup?xsd=xsd7" namespace="http://schemas.datacontract.org/2004/07/Microsoft.Dynamics.AX.Framework.Services" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="V2AX_BOMListServicesGetCompListRequest">
+    <wsdl:part name="parameters" element="tns:V2AX_BOMListServicesGetCompListRequest" />
+  </wsdl:message>
+  <wsdl:message name="V2AX_BOMListServicesGetCompListRequest_Headers">
+    <wsdl:part xmlns:q1="http://schemas.microsoft.com/dynamics/2010/01/datacontracts" name="context" element="q1:CallContext" />
+  </wsdl:message>
+  <wsdl:message name="V2AX_BOMListServicesGetCompListResponse">
+    <wsdl:part name="parameters" element="tns:V2AX_BOMListServicesGetCompListResponse" />
+  </wsdl:message>
+  <wsdl:message name="V2AX_BOMListServices_getCompList_AifFaultFault_FaultMessage">
+    <wsdl:part xmlns:q2="http://schemas.microsoft.com/dynamics/2008/01/documents/Fault" name="detail" element="q2:AifFault" />
+  </wsdl:message>
+  <wsdl:message name="V2AX_BOMListServicesCreateBOMHeaderRequest">
+    <wsdl:part name="parameters" element="tns:V2AX_BOMListServicesCreateBOMHeaderRequest" />
+  </wsdl:message>
+  <wsdl:message name="V2AX_BOMListServicesCreateBOMHeaderRequest_Headers">
+    <wsdl:part xmlns:q3="http://schemas.microsoft.com/dynamics/2010/01/datacontracts" name="context" element="q3:CallContext" />
+  </wsdl:message>
+  <wsdl:message name="V2AX_BOMListServicesCreateBOMHeaderResponse">
+    <wsdl:part name="parameters" element="tns:V2AX_BOMListServicesCreateBOMHeaderResponse" />
+  </wsdl:message>
+  <wsdl:message name="V2AX_BOMListServices_CreateBOMHeader_AifFaultFault_FaultMessage">
+    <wsdl:part xmlns:q4="http://schemas.microsoft.com/dynamics/2008/01/documents/Fault" name="detail" element="q4:AifFault" />
+  </wsdl:message>
+  <wsdl:portType name="V2AX_BOMListServices">
+    <wsdl:operation name="getCompList">
+      <wsdl:input wsaw:Action="http://tempuri.org/V2AX_BOMListServices/getCompList" name="V2AX_BOMListServicesGetCompListRequest" message="tns:V2AX_BOMListServicesGetCompListRequest" />
+      <wsdl:output wsaw:Action="http://tempuri.org/V2AX_BOMListServices/getCompListResponse" name="V2AX_BOMListServicesGetCompListResponse" message="tns:V2AX_BOMListServicesGetCompListResponse" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/V2AX_BOMListServices/getCompListAifFaultFault" name="AifFaultFault" message="tns:V2AX_BOMListServices_getCompList_AifFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateBOMHeader">
+      <wsdl:input wsaw:Action="http://tempuri.org/V2AX_BOMListServices/CreateBOMHeader" name="V2AX_BOMListServicesCreateBOMHeaderRequest" message="tns:V2AX_BOMListServicesCreateBOMHeaderRequest" />
+      <wsdl:output wsaw:Action="http://tempuri.org/V2AX_BOMListServices/CreateBOMHeaderResponse" name="V2AX_BOMListServicesCreateBOMHeaderResponse" message="tns:V2AX_BOMListServicesCreateBOMHeaderResponse" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/V2AX_BOMListServices/CreateBOMHeaderAifFaultFault" name="AifFaultFault" message="tns:V2AX_BOMListServices_CreateBOMHeader_AifFaultFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

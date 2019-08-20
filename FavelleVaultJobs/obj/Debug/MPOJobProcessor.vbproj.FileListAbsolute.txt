@@ -1,0 +1,17 @@
+C:\ProgramData\Autodesk\Vault 2014\Extensions\MPOJobProcessor\MPOJobProcessor.vcet.config
+C:\ProgramData\Autodesk\Vault 2014\Extensions\MPOJobProcessor\MPOJobProcessor.dll.config
+C:\ProgramData\Autodesk\Vault 2014\Extensions\MPOJobProcessor\MPOJobProcessor.dll
+C:\ProgramData\Autodesk\Vault 2014\Extensions\MPOJobProcessor\MPOJobProcessor.pdb
+C:\ProgramData\Autodesk\Vault 2014\Extensions\MPOJobProcessor\MPOJobProcessor.xml
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.vbprojResolveAssemblyReference.cache
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\Resources.resources
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.vbproj.GenerateResource.Cache
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.dll
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.xml
+D:\Projects\ImaginIT - Vault Tools\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.pdb
+D:\Projects\ImaginIT - Vault Tools - PRJ_MIG 179-084\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.vbprojResolveAssemblyReference.cache
+D:\Projects\ImaginIT - Vault Tools - PRJ_MIG 179-084\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\Resources.resources
+D:\Projects\ImaginIT - Vault Tools - PRJ_MIG 179-084\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.vbproj.GenerateResource.Cache
+D:\Projects\ImaginIT - Vault Tools - PRJ_MIG 179-084\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.dll
+D:\Projects\ImaginIT - Vault Tools - PRJ_MIG 179-084\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.xml
+D:\Projects\ImaginIT - Vault Tools - PRJ_MIG 179-084\ImaginITToolsInventor2014\ImaginITJobProcessor\obj\Debug\MPOJobProcessor.pdb
