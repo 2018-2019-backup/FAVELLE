@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vault2AXClientTools", "Vault2AXClientTools\Vault2AXClientTools.vdproj", "{B769450E-BEDF-4AF8-A963-7872ED46B5B7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vault2AXServerTools", "Vault2AXServerTools\Vault2AXServerTools.vdproj", "{C23C39B7-18BA-4E57-9767-0BBB35EF511B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B769450E-BEDF-4AF8-A963-7872ED46B5B7}.Debug|Default.ActiveCfg = Debug
+		{B769450E-BEDF-4AF8-A963-7872ED46B5B7}.Debug|Default.Build.0 = Debug
+		{B769450E-BEDF-4AF8-A963-7872ED46B5B7}.Release|Default.ActiveCfg = Release
+		{B769450E-BEDF-4AF8-A963-7872ED46B5B7}.Release|Default.Build.0 = Release
+		{C23C39B7-18BA-4E57-9767-0BBB35EF511B}.Debug|Default.ActiveCfg = Debug
+		{C23C39B7-18BA-4E57-9767-0BBB35EF511B}.Release|Default.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
