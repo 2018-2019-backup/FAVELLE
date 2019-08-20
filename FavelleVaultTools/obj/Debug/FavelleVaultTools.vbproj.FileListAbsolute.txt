@@ -1,0 +1,32 @@
+C:\ProgramData\Autodesk\Vault 2017\Extensions\KKMSOFTiVaultTools\FavelleVaultTools.vcet.config
+C:\ProgramData\Autodesk\Vault 2017\Extensions\KKMSOFTiVaultTools\FavelleVaultTools.dll.config
+C:\ProgramData\Autodesk\Vault 2017\Extensions\KKMSOFTiVaultTools\FavelleVaultTools.dll
+C:\ProgramData\Autodesk\Vault 2017\Extensions\KKMSOFTiVaultTools\FavelleVaultTools.pdb
+C:\ProgramData\Autodesk\Vault 2017\Extensions\KKMSOFTiVaultTools\FavelleVaultTools.xml
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\UI.g.vb
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools_MarkupCompile.cache
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools_MarkupCompile.lref
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\UI.baml
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools.g.resources
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools.Resources.resources
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools.vbproj.GenerateResource.Cache
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools.dll
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools.xml
+D:\Projects\Favelle Vault-AX\Souce code\ImaginITVaultTools\obj\Debug\FavelleVaultTools.pdb
+C:\ProgramData\Autodesk\Vault 2016\Extensions\FavelleVaultTools\FavelleVaultTools.vcet.config
+C:\ProgramData\Autodesk\Vault 2016\Extensions\FavelleVaultTools\FavelleVaultTools.dll.config
+C:\ProgramData\Autodesk\Vault 2016\Extensions\FavelleVaultTools\FavelleVaultTools.dll
+C:\ProgramData\Autodesk\Vault 2016\Extensions\FavelleVaultTools\FavelleVaultTools.pdb
+C:\ProgramData\Autodesk\Vault 2016\Extensions\FavelleVaultTools\FavelleVaultTools.xml
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools.vbprojResolveAssemblyReference.cache
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\uiImportItems.baml
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\uiSelectAX.baml
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\uiImportItems.g.vb
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\uiSelectAX.g.vb
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools_MarkupCompile.cache
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools.g.resources
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools.Resources.resources
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools.vbproj.GenerateResource.Cache
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools.dll
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools.xml
+D:\Projects\Favelle Vault-AX\Souce code\FavelleVaultTools\obj\Debug\FavelleVaultTools.pdb

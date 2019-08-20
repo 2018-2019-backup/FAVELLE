@@ -1,0 +1,126 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FavelleVaultTools
+</name>
+</assembly>
+<members>
+<member name="M:FavelleVaultTools.uiImportItems.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:FavelleVaultTools.uiImportItems">
+	<summary>
+uiImportItems
+</summary>
+</member><member name="M:FavelleVaultTools.uiSelectAX.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:FavelleVaultTools.uiSelectAX">
+	<summary>
+uiSelectAX
+</summary>
+</member><member name="T:FavelleVaultTools.FavelleVaultTools.LfCycDefListItem">
+	<summary>
+ A container for an LfCycDef object which can be displayed in a list box
+ </summary>
+</member><member name="T:FavelleVaultTools.FavelleVaultTools.LfCycStateListItem">
+	<summary>
+ A container for an LfCycState object which can be displayed in a list box
+ </summary>
+</member><member name="T:FavelleVaultTools.FavelleVaultTools.LfCycTransListItem">
+	<summary>
+ A container for an LfCycTrans object which can be displayed in a list box
+ </summary>
+</member><member name="T:FavelleVaultTools.FavelleVaultTools.WorkflowListItem">
+	<summary>
+ A container for an Workflow object which can be displayed in a list box
+ </summary>
+</member><member name="T:FavelleVaultTools.FavelleVaultTools.WorkflowStateListItem">
+	<summary>
+ A container for an WorkflowState object which can be displayed in a list box
+ </summary>
+</member><member name="T:FavelleVaultTools.FavelleVaultTools.WorkflowActivityListItem">
+	<summary>
+ A container for an Activity object which can be displayed in a list box
+ </summary>
+</member><member name="P:FavelleVaultTools.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:FavelleVaultTools.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:FavelleVaultTools.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:FavelleVaultTools.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:FavelleVaultTools.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:FavelleVaultTools.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="P:FavelleVaultTools.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FavelleVaultTools.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:FavelleVaultTools.My.Resources.Resources.KKMlogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FavelleVaultTools.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:FavelleVaultTools.My.Resources.Resources.mail">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FavelleVaultTools.My.Resources.Resources.pdf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:FavelleVaultTools.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:FavelleVaultTools.FavelleVaultTools.VaultPath.GetParentPath(System.String)">
+	<summary>
+ Gets the path of the parent folder for the inputed path.
+ </summary>
+	<param name="path">A full vault path.</param>
+	<returns>The parent folder path.</returns>
+</member><member name="M:FavelleVaultTools.FavelleVaultTools.VaultPath.Combine(System.String,System.String)">
+	<summary>
+ Combine 2 Vault path elements into a single path.
+ </summary>
+	<param name="path1">First part of the path.</param>
+	<param name="path2">Second part of the path.</param>
+	<returns>The combined path.</returns>
+</member><member name="M:FavelleVaultTools.FavelleVaultTools.VaultPath.Depth(System.String)">
+	<summary>
+ Determines the depth of the path.
+ </summary>
+	<param name="path">A full Vault path.</param>
+	<returns>The number of levels deep that the folder is.  
+ "$" will have a depth of 0.</returns>
+</member>
+</members>
+</doc>
